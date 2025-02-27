@@ -11,4 +11,7 @@ You can view the live version of my portfolio by visiting: https://sonuk-07.gith
 - HTML
 - JavaScript
 
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-portfolio.git
   
