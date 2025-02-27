@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 📝 About Me
 Hi! I'm Sonu Kumar, a passionate frontend developer with a focus on creating user-friendly and visually appealing web applications. I enjoy solving problems, learning new technologies, and collaborating on exciting projects.
 
-🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/sonukumar7/
-GitHub: https://github.com/sonuk-07
-Email: skjais04@gmail.com
+🔗 Connect with Me:
+📌 LinkedIn: Sonu Kumar
+📌 GitHub: sonuk-07
+📌 Email: skjais04@gmail.com
