@@ -4,12 +4,14 @@ import { FaLinkedin, FaGithub, FaTwitterSquare, FaInstagram } from 'react-icons/
 
 const Navbar = () => {
   return (
-    <nav className='mb-20 flex items-center justify-between py-6'>
-      <div className='flex flex-shrink-0 items-center'>
-      <img className='mx-2 w-14 h-14 rounded-full object-cover' src={logo} alt="logo" />
-
+    <nav className='mb-20 flex items-center justify-between px-6 sm:px-8 lg:px-18 py-4 sm:py-6'>
+      {/* Logo Section */}
+      <div className='flex items-center'>
+        <img className='w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover' src={logo} alt="logo" />
       </div>
-      <div className='m-8 flex items-center justify-center gap-4 text-2xl'>
+
+      {/* Social Links Section */}
+      <div className='flex items-center gap-4 text-xl sm:text-2xl'>
         <a href="https://www.linkedin.com/in/sonukumar7/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="hover:text-blue-500 transition-all duration-200" />
         </a>
