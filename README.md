@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
    npm install
 3. Run the development server
    ```bash
-   npm start
+   npm run dev
 📝 About Me
 Hi! I'm Sonu Kumar, a passionate frontend developer with a focus on creating user-friendly and visually appealing web applications. I enjoy solving problems, learning new technologies, and collaborating on exciting projects.
 
